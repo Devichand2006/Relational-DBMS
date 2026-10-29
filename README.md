@@ -398,6 +398,4 @@ Please maintain the strict layer separation — each module should only call fun
 
 <p align="center">
   Built with 💙 at <strong>NIT Calicut</strong> &nbsp;|&nbsp;
-  <a href="https://github.com/Krishna-2105/NITCBase-RDBMS/issues">Report an Issue</a> &nbsp;|&nbsp;
-  <a href="https://nitcbase.github.io/">Official Docs</a>
 </p>
